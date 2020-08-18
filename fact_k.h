@@ -1,5 +1,5 @@
-#ifndef FACT_H
-#define FACT_H
+#ifndef FACT_K
+#define FACT_K
 
 
 int fact_k(int val);
