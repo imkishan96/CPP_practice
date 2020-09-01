@@ -24,5 +24,4 @@ int main(){
     {
         cout << it.first << " occured: " << it.second << endl;
     }
-
 }
